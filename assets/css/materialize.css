@@ -2632,7 +2632,6 @@
         left: auto;
         right: auto; }
       .row .col.s12 {
-        width: 100%;
         margin-left: auto;
         left: auto;
         right: auto; }
@@ -2715,7 +2714,7 @@
           left: auto;
           right: auto; }
         .row .col.m2 {
-          width: 7.66667%;
+          width: 100%;
           margin-left: auto;
           left: auto;
           right: auto; }
@@ -2750,7 +2749,7 @@
           left: auto;
           right: auto; }
         .row .col.m9 {
-          width: 75%;
+          width: 100%;
           margin-left: auto;
           left: auto;
           right: auto; }
@@ -2981,7 +2980,7 @@
           left: auto;
           right: auto; }
         .row .col.xl2 {
-          width: 16.66667%;
+          width: 100%;
           margin-left: auto;
           left: auto;
           right: auto; }
@@ -3424,7 +3423,7 @@
     transition: box-shadow .25s;
     border-radius: 2px; }
     .card .card-title {
-      font-size: 20px;
+      font-size: 17px;
       font-weight: 700;
       font-family: 'Source Sans Pro';
     }
