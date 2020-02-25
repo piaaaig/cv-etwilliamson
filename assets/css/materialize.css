@@ -2630,11 +2630,13 @@
         width: 91.66667%;
         margin-left: auto;
         left: auto;
-        right: auto; }
+        right: auto;
+      width: 100%; }
       .row .col.s12 {
         margin-left: auto;
         left: auto;
-        right: auto; }
+        right: auto;
+      width: 100%; }
       .row .col.offset-s1 {
         margin-left: 8.33333%; }
       .row .col.pull-s1 {
